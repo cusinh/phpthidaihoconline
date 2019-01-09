@@ -1,0 +1,32 @@
+.stylephannoidung{
+	background-image: url('../img/phancuoi.png');
+	width:100%;
+	height:100%;
+	border: 1px solid #000;
+	z-index:auto;
+}
+.stylenoidung{
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	font-style:slower;
+	color: #ff0000;
+}
+.tieudechuong{
+	text-align:center;
+	padding-top:25px;
+	font-size:30px;
+	font-family:Lucida Grande;
+}
+.tieudebai{
+	text-align:center;
+	padding-bottom:0px;
+	font-size:30px;
+	font-family:Lucida Grande;
+}
+.noidungbai{
+	font-size:20px;
+	padding-left:190px;
+	padding-top:5px;
+	font-family:Lucida Grande;
+}

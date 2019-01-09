@@ -1,0 +1,37 @@
+
+.dangki{
+width:500px;
+height:auto;
+background:#FFF;
+border:#003 solid;
+margin-left:auto ;
+margin-right:auto ;
+margin-top:100px;
+	}
+.top_dk{
+background:#003;
+color:#FFF;
+width:500px;;
+height:35px;
+text-align:center;
+padding-top:15px;
+	}
+.tbdangki{
+margin-left:auto ;
+margin-right:auto ;
+	}
+.inputdk{
+	width:250px;
+	height:25px;
+	border:#3C9 inherit;
+	}
+.submitdk{
+	color:#FFF;
+	background:#03F;
+	width:100px;
+	height:25px;
+	border:1px solid;
+	border-color:#666;
+	font-weight:bold;
+	}
+

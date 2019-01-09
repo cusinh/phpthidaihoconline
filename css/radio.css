@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.my_style input[type="checkbox"], .my_style input[type="radio"] {
+    display: none;   /*khong hien thi nut check mac dinh*/
+}
+.my_style input[type="radio"] + label{
+    height: 22px;
+    display: block;
+    background: url(../img/radio.png) no-repeat;
+}
+.my_style input[type="checkbox"]:checked +label, .my_style input[type="radio"]:checked +label{
+    background-position: 0 -22px;
+}
+.my_style label{
+    line-height: 22px;
+    padding-left: 25px;
+}

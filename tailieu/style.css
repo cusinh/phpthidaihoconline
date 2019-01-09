@@ -1,0 +1,31 @@
+.phancuoi{
+	background-image: url('../img/phancuoi.png');
+	background-color:#d0f0f6;
+	z-index:auto;
+	border: 0px solid #FFF;
+	width:100%;
+	height:100%;
+	float:center;
+}
+
+
+.lieu{
+	text-align:left;
+	padding-left:180px;
+	font-size:25px;
+}
+.lieu a{
+		text-decoration:none;
+		color:#000;
+		text-align:center;
+		padding-left:100px;
+		font-weight:bold;
+		
+}
+.tailieumon{
+	text-align:center;
+	font-size:45px;
+	font-weight:bold;
+	font-family: UVNCHUKY;
+	color: #ff0000;
+}

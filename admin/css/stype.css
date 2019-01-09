@@ -1,0 +1,212 @@
+* {
+padding: 0; 
+margin: 0;
+text-decoration:none;
+list-style-type:none;
+}
+.header{
+	background:#3C9;
+	width:100%;
+	height:50px;
+	box-shadow:4px 4px 4px #CCCCCC;
+		}
+		.logo{
+			width:15%;
+			height:50px;
+			padding-top:25px;;
+			float:left;
+			}
+			.avata{
+				width:400px;
+				height:50px;
+				margin-left:60%;
+				}
+				.anh{
+					width:50px;
+					height:50px;
+					float:left;
+					margin-left:38px;
+					background-image:url(../../uploads/hien.jpg);
+					background-size:50px;
+					}
+					.logout{
+						color:#FFF;
+						padding-top:20px;
+						
+						}
+.menu_left{
+	width:13%;
+	min-height:500px;
+	background:#F5F5F5;
+	box-shadow:4px 4px 4px #666666;
+	color:#FFF;
+	text-align:left;
+	}
+	ul{
+		width:100px;
+		height:30px;
+		}
+		ul li{
+			padding-top:15px;
+			width:170px;
+			height:25px;
+			border-bottom:1px dashed;
+			}
+			ul li:hover{
+				background:#666;
+				}
+				ul li a{
+					color:#000;
+					}
+					ul li:hover a{
+						color:#3C6;
+						}
+
+.content{
+	clear:right;
+	width:77%;
+	float:left;
+	height:auto;
+	margin-left:15%;
+	margin-top:-500px;
+	box-shadow:5px 5px 5px #999999;
+	background:#EFEFEF;
+	}
+	table{
+		margin:auto;
+		font-weight:bold;
+		width:800px;
+		height:30px;
+		}
+table, th, td {border: 4px solid;
+ border-collapse:collapse;
+ border-color:#FCFCFC;
+ 	 padding-top:25px;
+	 padding-bottom:25px;
+  }
+ table th{
+	 text-align:left;
+	 background:#F8F8F8;
+	 color:#03F;
+	 	 }
+		 table td{
+			 background:#F8F8F8;
+			 }
+	 input{
+		 width:300px;
+		 height:30px;
+		 border:1px solid;
+		 border-color:#06F;
+		 box-shadow:3px 3px 3px #666666;
+		 border-radius:5px 5px 5px 5px;
+		 }
+		 select{
+			 width:100px;
+			 height:20px;
+			 color:#00C;
+			 border-color:#03F;
+			 box-shadow:2px 2px 2px #666666;
+			 }
+			 .sub input[type="submit"]{
+				 width:50px;
+				 height:30px;
+				 background:#06F;
+				 box-shadow:4px 4px 4px #999;
+				 margin-left:300px;
+				 color:#FFF;
+				 }
+				 .sub input[type="submit"]:hover{
+					 background:#09F;
+					 }
+					 .table_nd{
+						 margin-top:20px;
+						 }
+.table_nd tr th{
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	color:#F00;
+	}
+	.table_nd tr td{
+			padding-top:15px;
+			padding-bottom:15px;
+			text-align:center;
+			color:#00F;
+		}
+		.table_nd tr td input[type="file"]{;
+			height:20px
+			}
+			.table_nd tr td input[type="submit"]{
+				width:90px;
+				height:30px;
+				background:#06F;
+				color:#FFF;
+				}
+				.table_nd tr td input[type="submit"]:hover{
+					background:#09F;
+					}
+.table_tailieu tr td{
+		padding-top:15px;
+		padding-bottom:15px;
+		color:#03F;
+	}
+	.table_tailieu tr td textarea{
+		width:100%;
+		height:50px;
+		box-shadow:4px 4px 4px #999999;
+		}
+		.table_tailieu tr td input[type="submit"]{
+			width:60px;
+			height:30px;
+			color:#FFF;
+			background:#03F;
+			text-align:center;
+			margin-left:400px;
+			}
+				.table_tailieu select{
+			 width:100px;
+			 height:20px;
+			 color:#00F;
+			 border-color:#03F;
+			 box-shadow:2px 2px 2px #666666;
+			 }
+
+.xemdethi ul{
+	}
+	.xemdethi ul li{
+		}
+		#xem1{
+			color:#000;
+			display:none;
+			}
+.icon_1{
+	text-align:center;
+	}
+.icon_2{
+	text-align:center;
+	text-shadow:#0F3;
+}
+
+.icon td a{
+	color:#000;
+	}
+	.icon td a:hover{
+		color:#03F;
+		}
+		.icon td {
+			background:#EEE;
+			border-color:#EEE;
+			}
+.footer{
+	background:#000;
+	height:100px;
+	width:100%;
+	bottom:0;
+	color:#FFF;
+	line-height:50px;
+	text-align:center;
+	margin-top:15px;
+	}
+	
+	
+
